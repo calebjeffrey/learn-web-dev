@@ -1,5 +1,9 @@
 # Web Development: lesson 1
 
+the early years...
+
+![Alt Text](https://media.giphy.com/media/5yYyPsHIRtUgbc0QOm/giphy.gif)
+
 ## Documentations and Definitions
 
 - [Web: a service that uses a network of networks called the internet](https://developer.mozilla.org/en-US/docs/Web)
